@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, It's dzgu here 👋
+### Hi, It's dzgu here 👋
 
 ![dzgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongZhouGu&hide=contribs,prs&show_icons=true&theme=vue)
